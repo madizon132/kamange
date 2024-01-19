@@ -762,6 +762,7 @@ a:hover {
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
+  font-family: 'Montserrat';
 }
 
 @media (min-width: 768px) {
